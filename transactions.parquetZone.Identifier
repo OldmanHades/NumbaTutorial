@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.youtube.com/
+HostUrl=https://storage.googleapis.com/rapidsai/polars-demo/transactions.parquet
